@@ -1,0 +1,14 @@
+#btn{
+    position: absolute;
+    left: 45%;
+    top: 50%;
+    font-size: 50px;
+    cursor: pointer;
+    border: 5px solid chocolate;
+}
+
+#btn:hover{
+    background-color: brown;
+    color: white;
+    border-radius: 10px;
+}
